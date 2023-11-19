@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #002d4b;
+    background-color: #cbcbcb;
+}
+
+.imagen {
+    width: 40%;
+    border: 1px solid #1B4F72;
+    float: right;
+}
+/* Eran solo un par pero quise indagar y termine poniendo mas xd */
+.Encabezado {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.Navegacion {
+    text-align: center;
+    color: #fff;
+    background-color: #444;
+    padding: 10px;
+    border: 1px solid #000000;
+}
+
+.main {
+    text-align: center;
+    padding: 20px;
+}
